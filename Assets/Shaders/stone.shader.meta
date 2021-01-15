@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: af1834a0b9ebab94eaa473493c7862fb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _fi_village_floor_stone03_hd_n: {fileID: 2800000, guid: b0cf5d58a6bade2469113054bef0f30f, type: 3}
+  - _fi_village_floor_stone03_hd: {fileID: 2800000, guid: 6b236461e35b0d7499220e99839ff390, type: 3}
+  - _fi_village_floor_stone03_hd_ao: {fileID: 2800000, guid: a9564f54d0e71ab4b8b733f610d579fb, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

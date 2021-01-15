@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 2023b78881ee6af4ba90972c5398c1b2
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _fi_village_woven_hd_n: {fileID: 2800000, guid: 3b71f4fe20b0a30458b8c364b39bc605, type: 3}
+  - _fi_village_woven_hd: {fileID: 2800000, guid: 85a9de18fb418c14494b7b051aebb00f, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

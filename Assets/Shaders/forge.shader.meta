@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a20ee3138a2f675418c27b8c8ff1aefe
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _fi_village_forge_hd_n: {fileID: 2800000, guid: 4758c8897b09a3e41b68f16d4cfd20c5, type: 3}
+  - _fi_village_forge_hd: {fileID: 2800000, guid: df376a1fa092ec646bac02e39db470cb, type: 3}
+  - _fi_village_forge_hd_ao: {fileID: 2800000, guid: 685415eac0f8236408871f9e36b8cff9, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

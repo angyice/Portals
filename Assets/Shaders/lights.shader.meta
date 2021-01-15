@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 2173025fda453cc4b92e145d08c005d0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _fi_village_lighting_hd_n: {fileID: 2800000, guid: d5bdfc3faf72a87498b4c77b848cb934, type: 3}
+  - _fi_village_lighting_hd: {fileID: 2800000, guid: 91b188e2faf62cd489899b106acc158d, type: 3}
+  - _fi_village_lighting_hd_ao: {fileID: 2800000, guid: b5330e70e42de7242bc886b5aa2d2d33, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

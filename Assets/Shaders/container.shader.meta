@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e13ae2c59f796d94fbf9716cdea4552b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _fi_village_containers_hd_n: {fileID: 2800000, guid: e48860d961c9d8e4399c27d84ce638a3, type: 3}
+  - _fi_village_containers_hd: {fileID: 2800000, guid: 9f7f663b360c5e84eab899f919c3e414, type: 3}
+  - _fi_village_containers_hd_ao: {fileID: 2800000, guid: 06295e6cfbdac05429d660612bc507c7, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

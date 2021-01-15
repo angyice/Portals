@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 55f5bca68ccba354399e1219000e2227
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _fi_village_floor_wood04_hd_n: {fileID: 2800000, guid: 6ee73863a715f334bbe17fd2b11210e7, type: 3}
+  - _fi_village_floor_wood04_hd: {fileID: 2800000, guid: f563c00f4bb6d8f42bb9b36f7fb1e4ab, type: 3}
+  - _fi_village_floor_wood04_hd_ao: {fileID: 2800000, guid: 84bb0329d403cd04591499918c1a9146, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
